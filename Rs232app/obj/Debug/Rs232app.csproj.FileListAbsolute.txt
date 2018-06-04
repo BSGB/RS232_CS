@@ -1,0 +1,10 @@
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\bin\Debug\Rs232app.exe.config
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\bin\Debug\Rs232app.exe
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\bin\Debug\Rs232app.pdb
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.Form1.resources
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.csproj.GenerateResource.Cache
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.exe
+C:\Users\Bartosz\source\repos\Rs232app\Rs232app\obj\Debug\Rs232app.pdb
